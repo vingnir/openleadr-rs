@@ -1,0 +1,23 @@
+{
+  "objectType": "REPORT",
+  "programID": "{{programId}}",
+  "eventID": "{{eventId}}",
+  "clientName": "ven-client",
+  "reportName": "opt-status",
+  "resources": [
+    {
+      "resourceName": "{{venId}}",
+      "intervals": [
+        {
+          "id": 0,
+          "payloads": [
+            {
+              "type": "OPERATING_STATE",
+              "values": ["optIn"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

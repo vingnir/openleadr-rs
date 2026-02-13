@@ -1,0 +1,17 @@
+{
+  "objectType": "EVENT",
+  "programID": "{{programId}}",
+  "eventName": "demo-event",
+  "priority": 0,
+  "intervals": [
+    {
+      "id": 0,
+      "payloads": [
+        {
+          "type": "PRICE",
+          "values": [123.4]
+        }
+      ]
+    }
+  ]
+}
