@@ -1,0 +1,11 @@
+{
+  "id": "{{reportId2}}",
+  "createdDateTime": "{{now}}",
+  "modificationDateTime": "{{now}}",
+  "objectType": "REPORT",
+  "programID": "{{programId}}",
+  "eventID": "{{eventId}}",
+  "clientName": "ven-client",
+  "reportName": "telemetry",
+  "resources": []
+}

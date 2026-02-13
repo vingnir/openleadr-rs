@@ -1,0 +1,2 @@
+DELETE /events/{{eventId}}
+Authorization: Bearer {{businessJwt}}

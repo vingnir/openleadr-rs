@@ -1,0 +1,8 @@
+{
+  "objectType": "REPORT",
+  "programID": "{{programId}}",
+  "eventID": "{{eventId}}",
+  "clientName": "ven-client",
+  "reportName": "telemetry",
+  "resources": []
+}

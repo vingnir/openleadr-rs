@@ -1,0 +1,7 @@
+{
+  "id": "{{programId}}",
+  "createdDateTime": "{{now}}",
+  "modificationDateTime": "{{now}}",
+  "objectType": "PROGRAM",
+  "programName": "demo-program"
+}
